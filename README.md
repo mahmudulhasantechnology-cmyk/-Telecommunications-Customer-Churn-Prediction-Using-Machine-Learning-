@@ -1,4 +1,4 @@
-# Telecommunications Customer Churn Prediction System - Please check the commit History for Better understanding
+# Telecommunications Customer Churn Prediction System - Kindly check the commit History for Better understanding
 
 A machine learning-based classification system designed to predict customer churn, mitigate revenue loss, and identify at-risk subscriber segments using Python and Google Colab.
 
